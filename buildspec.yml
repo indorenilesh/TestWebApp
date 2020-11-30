@@ -51,7 +51,7 @@ phases:
     #file-format: JunitXml | CucumberJson
 artifacts:
   files:
-     - webapp/target/webapp.war
+     - target/basicform.war
     # - location
   #name: $(date +%Y-%m-%d)
   #discard-paths: yes
