@@ -15,7 +15,7 @@
 <table cellspacing="10" align="center">
  <tr>
 	<td colspan="2" align="center">
-		<input type="Go to main page" value="Submit" />
+		<input type="submit" value="Go to main page" />
 	</td>
 </tr>
 </table>
